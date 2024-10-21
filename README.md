@@ -1,16 +1,10 @@
-# lesson7_task
+# Программирование корпоративных систем
+Дисциплина: **Программирование корпоративных систем** <br>
+Семестр: 5 <br>
+Выполнил студент **ЭФБО-04-22 Медведев А. А.** <br>
 
-A new Flutter project.
 
-## Getting Started
+# Практическая работа №7
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[SVID_20241021_222141_1.webm](https://github.com/user-attachments/assets/add06461-b22e-4bcb-b92e-25c87cd10eb2)
